@@ -8,4 +8,4 @@ My Project list
 
 | Plugin | README |
 | ------ | ------ |
-| FlipCard Profile | [FlipCard][PlDb] |
+| FlipCard Profile | [/FlipCard/](https://github.com/IqbalMind/WebLab/tree/main/FlipCard) |
