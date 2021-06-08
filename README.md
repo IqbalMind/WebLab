@@ -9,3 +9,4 @@ My Project list
 | Plugin | README |
 | ------ | ------ |
 | FlipCard Profile | [/FlipCard/](https://github.com/IqbalMind/WebLab/tree/main/FlipCard) |
+| SocialCard Profile | [/SocialCard/](https://github.com/IqbalMind/WebLab/tree/main/SocialCard) |
