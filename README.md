@@ -10,3 +10,4 @@ My Project list
 | ------ | ------ |
 | FlipCard Profile | [/FlipCard/](https://github.com/IqbalMind/WebLab/tree/main/FlipCard) |
 | SocialCard Profile | [/SocialCard/](https://github.com/IqbalMind/WebLab/tree/main/SocialCard) |
+| Product delivery status card | [/SocialCard/](https://github.com/IqbalMind/WebLab/tree/main/Product-delivery-status-card) |
